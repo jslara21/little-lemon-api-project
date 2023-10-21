@@ -1,0 +1,9 @@
+admin:
+user:jimuel
+pass:123qwe
+customer:
+user:customer1
+pass:littlecust123
+customer:
+user:delivery1
+pass:littledeliv123
